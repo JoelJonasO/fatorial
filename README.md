@@ -1,5 +1,5 @@
 
-# Projeto Eleições
+# Projeto Fatorial
 
 Pequena lógica que calcula o fatorial de número positivo qualquer.
 
